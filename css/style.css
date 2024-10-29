@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 100px;
+}
 body {
     background: green;
     font-size: 20px;
