@@ -3,7 +3,7 @@ html {
     scroll-padding-top: 100px;
 }
 body {
-    background: green;
+    background: rgb(205, 239, 205);
     font-size: 20px;
     border-radius: 50%;
 }
